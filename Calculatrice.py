@@ -58,6 +58,7 @@ while True:
         else:
             print(f"{RED}ERROR : {YELLOW}Entrée non valide. Veuillez réessayer.")
     if x.lower() == "exit" :
+        print("Merci pour avoir Joué") 
         break
     else:
         continue
